@@ -4,7 +4,7 @@
 Jerson David Pérez Contreras
 A01793810
 
-## Certificado curos Coursera Programacion Python
+## Certificado curso Coursera Programacion Python
 
 -Certificado Bases en porgramacion Python.pdf
 
