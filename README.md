@@ -21,3 +21,13 @@ Progreso: Progreso Curso IBM 2.png
 Notebook: Semana_2_Actividad_1_Python_for_Data_Science_(IBM).ipynb
 
 
+## Actividad Semana 3
+
+Progreso: Progreso Curso IBM 3.png
+
+Notebook: Semana 3: Python for Data Science (IBM).ipynb
+
+Certificado Final Curso IBM: Certificado IBM PY0101EN _ Cognitive Class
+
+
+
